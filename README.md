@@ -1,6 +1,6 @@
 # adventure_works
 <b>🧭 Adventure Works Sales Dashboard</b>
-This Power BI project showcases a comprehensive sales analysis for the fictional company Adventure Works. The dashboard visualizes key business metrics including Total Sales, Total Budget, and Product Performance across various dimensions such as geography, product category, and customer demographics.
+This Power BI project showcases a comprehensive sales analysis for the company "Adventure Works". The dashboard visualizes key business metrics including Total Sales, Total Budget, and Product Performance across various dimensions such as geography, product category, and customer demographics.
 
 
 <b>📊 Overview</b>
